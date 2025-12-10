@@ -1,0 +1,104 @@
+                                                                                
+body {                                                                          
+  margin: 0;                                                                    
+  font-family: Arial, sans-serif;                                               
+  background: #f8f5f0;                                                          
+  color: #2d2a32;                                                               
+}                                                                               
+                                                                                
+.page {                                                                         
+  display: flex;                                                                
+  min-height: 100vh;                                                            
+}                                                                               
+                                                                                
+.adhihi-column {                                                                
+  width: 15%;                                                                   
+  background: #ece3d5;                                                          
+  padding: 20px;                                                                
+  box-sizing: border-box;                                                       
+  text-align: center;                                                           
+  color: #7a6a56;                                                               
+}                                                                               
+                                                                                
+.adhihi-box {                                                                   
+  border: 2px dashed #c0ad92;                                                   
+  padding: 20px 10px;                                                           
+  margin-bottom: 20px;                                                          
+  font-weight: bold;                                                            
+  background: #f6efe5;                                                          
+}                                                                               
+                                                                                
+.content {                                                                      
+  width: 70%;                                                                   
+  padding: 20px 30px 40px;                                                      
+  box-sizing: border-box;                                                       
+}                                                                               
+                                                                                
+.logo {                                                                         
+  display: block;                                                               
+  max-width: 200px;                                                             
+  margin: 10px auto;                                                            
+}                                                                               
+                                                                                
+nav {                                                                           
+  background: #4f5d75;                                                          
+  padding: 10px;                                                                
+  text-align: center;                                                           
+}                                                                               
+                                                                                
+nav a {                                                                         
+  color: #f5f5f5;                                                               
+  text-decoration: none;                                                        
+  margin: 0 10px;                                                               
+  font-weight: bold;                                                            
+}                                                                               
+                                                                                
+nav a:hover {                                                                   
+  text-decoration: underline;                                                   
+}                                                                               
+                                                                                
+h1 {                                                                            
+  text-align: center;                                                           
+  color: #1f2a44;                                                               
+}                                                                               
+                                                                                
+.card {                                                                         
+  background: #ffffff;                                                          
+  border: 1px solid #d9d2c7;                                                    
+  padding: 15px 20px;                                                           
+  margin: 15px 0;                                                               
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);                                    
+}     
+
+.card img {
+    max-width: 100%;
+    height: relative;
+    text-align: center;
+}
+                                                                                
+.link-list a {                                                                  
+  display: block;                                                               
+  margin: 8px 0;                                                                
+  color: #2d5d7b;                                                               
+  text-decoration: none;                                                        
+  font-weight: bold;                                                            
+}                                                                               
+                                                                                
+.link-list a:hover {                                                            
+  text-decoration: underline;                                                   
+}                                                                               
+                                                                                
+.section-title {                                                                
+  margin-top: 0;                                                                
+  color: #3c4a5a;                                                               
+}                                                                               
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-row {
+    display: flex;
+    justify-content: space-around;
+}
